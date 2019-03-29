@@ -14,5 +14,6 @@ dependencies:
   - obspy
   - eofs
   - holoviews
+  - hvplot
   - pip:
     - discretize
