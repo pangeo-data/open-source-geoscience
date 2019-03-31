@@ -16,5 +16,6 @@ dependencies:
   - holoviews
   - hvplot
   - rasterio
+  - gcsfs
   - pip:
     - discretize
