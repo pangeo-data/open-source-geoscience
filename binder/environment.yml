@@ -16,4 +16,5 @@ dependencies:
   - holoviews
   - hvplot
   - pip:
+    - SimPEG
     - discretize
