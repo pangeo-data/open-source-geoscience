@@ -16,7 +16,7 @@ install:
     - source activate test
 
     # Install testing dependencies
-    - conda install pathlib nbconvert nbformat jupyter_client ipykernel
+    - conda install pathlib nbconvert nbformat jupyter_client ipykernel sphinx
 
     # Install documentation dependencies
     - pip install nbsphinx
