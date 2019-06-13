@@ -16,6 +16,8 @@ dependencies:
   - holoviews
   - hvplot
   - mkl
+  - rasterio
+  - gcsfs
   - pip:
     - SimPEG
     - discretize
